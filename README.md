@@ -1,1 +1,2 @@
 # McDonald-s-Menu-Nutritional-Analysis---Project1
+This project based on comprehensive anylysis of nutrition content of given item. the dataset had information about food items and there neutrition, By understanding the nutritional profiles, customers can make informed choices aligning with their dietary preferences and health goals. For McDonald's, this analysis can guide menu development, introducing healthier options and catering to diverse nutritional needs.
